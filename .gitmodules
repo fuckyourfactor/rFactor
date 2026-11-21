@@ -1,0 +1,24 @@
+[submodule "Plugins/rFactorSharedMemoryMap.dll"]
+	path = Plugins/rFactorSharedMemoryMap.dll
+	url = https://github.com/fuckyourfactor/Plugins-rFactorSharedMemoryMap.dll.git
+[submodule "Support/HostingTest.exe"]
+	path = Support/HostingTest.exe
+	url = https://github.com/fuckyourfactor/Support-HostingTest.exe.git
+[submodule "rF Config.exe"]
+	path = rF Config.exe
+	url = https://github.com/fuckyourfactor/rF_Config.exe.git
+[submodule "Libs/binkw32.dll"]
+	path = Libs/binkw32.dll
+	url = https://github.com/fuckyourfactor/Libs-binkw32.dll.git
+[submodule "Plugins/deltabest.dll"]
+	path = Plugins/deltabest.dll
+	url = https://github.com/fuckyourfactor/Plugins-deltabest.dll.git
+[submodule "ReadMe.chm"]
+	path = ReadMe.chm
+	url = https://github.com/fuckyourfactor/ReadMe.chm.git
+[submodule "Utils/4gb_patch.exe"]
+	path = Utils/4gb_patch.exe
+	url = https://github.com/fuckyourfactor/Utils-4gb_patch.exe.git
+[submodule "Libs/dsetup.dll"]
+	path = Libs/dsetup.dll
+	url = https://github.com/fuckyourfactor/Libs-dsetup.dll.git
