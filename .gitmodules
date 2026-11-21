@@ -7,9 +7,6 @@
 [submodule "rF Config.exe"]
 	path = rF Config.exe
 	url = https://github.com/fuckyourfactor/rF_Config.exe.git
-[submodule "Libs/binkw32.dll"]
-	path = Libs/binkw32.dll
-	url = https://github.com/fuckyourfactor/Libs-binkw32.dll.git
 [submodule "Plugins/deltabest.dll"]
 	path = Plugins/deltabest.dll
 	url = https://github.com/fuckyourfactor/Plugins-deltabest.dll.git
@@ -19,6 +16,9 @@
 [submodule "Utils/4gb_patch.exe"]
 	path = Utils/4gb_patch.exe
 	url = https://github.com/fuckyourfactor/Utils-4gb_patch.exe.git
-[submodule "Libs/dsetup.dll"]
-	path = Libs/dsetup.dll
+[submodule "binkw32.dll"]
+	path = binkw32.dll
+	url = https://github.com/fuckyourfactor/Libs-binkw32.dll.git
+[submodule "dsetup.dll"]
+	path = dsetup.dll
 	url = https://github.com/fuckyourfactor/Libs-dsetup.dll.git
