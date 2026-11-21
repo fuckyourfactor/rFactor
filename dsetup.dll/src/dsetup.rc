@@ -1,0 +1,29 @@
+#include <windows.h>
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 4,9,0,904
+ PRODUCTVERSION 4,9,0,904
+ FILEFLAGSMASK 0x3fL
+ FILEFLAGS 0x0L
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_DLL
+ FILESUBTYPE VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "FileDescription",  "dsetup re-implementation (DirectX driver preloader)\0"
+            VALUE "FileVersion",      "4.9.0.0904\0"
+            VALUE "InternalName",     "dsetup.dll\0"
+            VALUE "OriginalFilename", "dsetup.dll\0"
+            VALUE "ProductName",      "dsetup-reimpl (open-source clean re-implementation)\0"
+            VALUE "ProductVersion",   "4.9.0.0904\0"
+            VALUE "Comments",         "Behavioural re-implementation of the DirectX 9.0c dsetup.dll stub. Not a Microsoft product.\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1252
+    END
+END

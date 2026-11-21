@@ -1,0 +1,20 @@
+LIBRARY dsetup
+EXPORTS
+    DirectXDeviceDriverSetupA       @1
+    DirectXDeviceDriverSetupW       @2
+    DirectXRegisterApplicationA     @3
+    DirectXRegisterApplicationW     @4
+    DirectXSetupA                   @5
+    DirectXSetupIsJapan             @6
+    DirectXSetupIsJapanNec          @7
+    DirectXSetupW                   @8
+    DirectXUnRegisterApplication    @9
+    DirectXSetupSetCallback         @10
+    DirectXSetupGetVersion          @11
+    DirectXSetupCallback            @12
+    DirectXSetupGetFileVersion      @13
+    DirectXLoadString               @14
+    DirectXSetupIsEng               @15
+    DirectXSetupShowEULA            @16
+    DirectXSetupGetEULAA            @17
+    DirectXSetupGetEULAW            @18
